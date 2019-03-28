@@ -25,7 +25,7 @@ def first_element_with_array_methods(array)
 end
 
 def last_element_with_array_methods(array)
- return  array.pop
+ return  array.last
 end
 
 def lenght_of_array(array)
