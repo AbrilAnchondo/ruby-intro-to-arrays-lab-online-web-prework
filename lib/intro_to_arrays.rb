@@ -5,7 +5,7 @@ end
 
 def array_with_two_elements
   my_array = ["apples", "oranges"]
-  return my_array
+  my_array
 end
 
 def first_element(array)
